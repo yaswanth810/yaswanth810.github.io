@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds",
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kuiralabs.starter.counter",
+      "sha256_cert_fingerprints": [
+        "53:8F:E7:11:1C:DF:F9:9C:0F:E5:48:E8:9C:18:9F:BF:63:3C:2A:14:06:37:DD:0A:CE:98:66:4E:F4:0E:6C:51"
+      ]
+    }
+  }
+]
